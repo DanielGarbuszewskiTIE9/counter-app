@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Counter from './Counter.js';
+import Movies from './components/movies.js';
 
 function App() {
   return (
     <div className="App">
-      <Counter />
+      <Movies />
     </div>
   );
 }
